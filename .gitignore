@@ -1,0 +1,9 @@
+data/
+results/
+base_clusterings/
+__pycache__/
+.ipynb_checkpoints/
+*.pth
+*.npy
+*.pkl
+*.json
